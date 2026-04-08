@@ -10,3 +10,6 @@ A simple Flutter note-taking app that allows users to add and delete notes easil
 ❌ Delete notes
 💾 Save notes locally
 📱 Simple and clean UI
+
+![Home Screen](Screenshot_20260408-123058.png)
+![Add Note](Screenshot_20260408-123140.png)
